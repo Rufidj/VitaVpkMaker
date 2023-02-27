@@ -1,0 +1,31 @@
+                           << PSVITA VPK MAKER >>
+
+--ESPAÑOL
+Creado por Rubén Hernández Toboso
+Herramienta GUI diseñada para la creacion de archivos VPK para Playstation Vita®
+Utiliza la Herramienta de Terceros sfo.exe creada y desarrollada por hippie68
+Sitio web : https://github.com/hippie68/sfo
+
+--INGLISH
+Created by Rubén Hernández Toboso
+GUI tool designed for creating VPK files for Playstation Vita®
+It uses the Third Party Tool sfo.exe created and developed by hippie68
+Website : https://github.com/hippie68/sfo
+
+--CATALAN
+Creat per Rubén Hernández Toboso
+GUI dissenyada per a la creació d'arxius VPK per a Playstation Vita®
+Utilitza l'Eina de Tercers sfo.exe creada i desenvolupada per hippie68
+Lloc web: https://github.com/hippie68/sfo
+
+--ALEMAN
+Erstellt von Rubén Hernández Toboso
+GUI-Tool zum Erstellen von VPK-Dateien für Playstation Vita®
+Es verwendet das von hippie68 erstellte und entwickelte Third Party Tool sfo.exe
+Website: https://github.com/hippie68/sfo
+
+--日本
+作成者 ルベン・エルナンデス・トボソ
+PlayStation Vita®用のVPKファイルを作成するために設計されたGUIツール
+これは、hippie68 によって作成および開発されたサードパーティ ツール sfo.exe を使用します。
+ウェブサイト : https://github.com/hippie68/sfo

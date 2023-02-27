@@ -1,0 +1,12 @@
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\bin\Debug\PSVITA VPK MAKER.exe.config
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\bin\Debug\PSVITA VPK MAKER.exe
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\bin\Debug\PSVITA VPK MAKER.pdb
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.csproj.AssemblyReference.cache
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA_VPK_MAKER.Form1.resources
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA_VPK_MAKER.Properties.Resources.resources
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.csproj.GenerateResource.cache
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.csproj.CoreCompileInputs.cache
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.exe
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA VPK MAKER.pdb
+C:\Users\Divai\source\repos\PSVITA VPK MAKER\PSVITA VPK MAKER\obj\Debug\PSVITA_VPK_MAKER.Acerca.resources
